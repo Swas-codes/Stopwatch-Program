@@ -1,0 +1,81 @@
+# ⏱️ Stopwatch
+
+A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaScript**. The stopwatch allows users to start, stop, and reset the timer with an intuitive interface.
+
+## ✨ Features
+
+- ▶️ Start the stopwatch
+- ⏸️ Stop/Pause the stopwatch
+- 🔄 Reset the stopwatch
+- ⏱️ Displays minutes, seconds, and milliseconds
+- ⚡ Real-time updates using `setInterval()`
+- 📱 Responsive design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## 📚 Concepts Practiced
+
+- DOM Manipulation
+- Event Handling
+- Functions
+- Variables
+- `setInterval()`
+- `clearInterval()`
+- `Date.now()`
+- Template Literals
+- `Math.floor()`
+- `padStart()`
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone 
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+## 📸 Preview
+
+```text
+📷 images/stopwatch.png
+```
+
+## 📂 Project Structure
+
+```
+stopwatch-js/
+│
+├── index.html
+├── style.css
+├── script.js
+├── screenshots/
+│   └── images/stopwatch.png
+└── README.md
+```
+
+## 🌱 Future Improvements
+
+- ⏳ Lap Timer
+- 🎨 Dark/Light Mode
+- 🔊 Sound Effects
+- 📱 Improved Mobile UI
+- ⌨️ Keyboard Shortcuts
+- 💾 Save Lap Times
+
+## 👩‍💻 Author
+
+**Swastika Karmakar**
+
+Currently learning JavaScript by building projects and improving one step at a time. 🚀
+
+---
+
+⭐ If you like this project, feel free to star the repository!
