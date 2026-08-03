@@ -1,23 +1,23 @@
-# ⏱️ Stopwatch
+# Stopwatch
 
 A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaScript**. The stopwatch allows users to start, stop, and reset the timer with an intuitive interface.
 
-## ✨ Features
+## Features:
 
-- ▶️ Start the stopwatch
-- ⏸️ Stop/Pause the stopwatch
-- 🔄 Reset the stopwatch
-- ⏱️ Displays minutes, seconds, and milliseconds
-- ⚡ Real-time updates using `setInterval()`
-- 📱 Responsive design
+- Start the stopwatch
+- Stop/Pause the stopwatch
+- Reset the stopwatch
+- Displays minutes, seconds, and milliseconds
+- Real-time updates using `setInterval()`
+- Responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used:
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📚 Concepts Practiced
+## Concepts Practiced:
 
 - DOM Manipulation
 - Event Handling
@@ -30,7 +30,7 @@ A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaS
 - `Math.floor()`
 - `padStart()`
 
-## 🚀 How to Run
+## How to Run:
 
 1. Clone the repository:
 
@@ -42,15 +42,14 @@ git clone https://github.com/swastikakarmakar13-bot/Stopwatch-Program.git
 
 3. Open `index.html` in your browser.
 
-## 📸 Preview
+## Preview:
 
 ```text
 📷 images/stopwatch.png
 ```
 
-## 📂 Project Structure
+## Project Structure:
 
-```
 stopwatch-js/
 │
 ├── index.html
@@ -59,18 +58,17 @@ stopwatch-js/
 ├── screenshots/
 │   └── images/stopwatch.png
 └── README.md
-```
 
-## 🌱 Future Improvements
+## Future Improvements:
 
-- ⏳ Lap Timer
-- 🎨 Dark/Light Mode
-- 🔊 Sound Effects
-- 📱 Improved Mobile UI
-- ⌨️ Keyboard Shortcuts
-- 💾 Save Lap Times
+- Lap Timer
+- Dark/Light Mode
+- Sound Effects
+- Improved Mobile UI
+- Keyboard Shortcuts
+- Save Lap Times
 
-## 👩‍💻 Author
+## Author:
 
 **Swastika Karmakar**
 
