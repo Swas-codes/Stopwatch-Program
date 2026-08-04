@@ -1,9 +1,7 @@
 # Stopwatch
-
 A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaScript**. The stopwatch allows users to start, stop, and reset the timer with an intuitive interface.
 
 ## Features:
-
 - Start the stopwatch
 - Stop/Pause the stopwatch
 - Reset the stopwatch
@@ -12,13 +10,11 @@ A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaS
 - Responsive design
 
 ## Technologies Used:
-
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
 ## Concepts Practiced:
-
 - DOM Manipulation
 - Event Handling
 - Functions
@@ -31,25 +27,19 @@ A simple and responsive **Stopwatch** built using **HTML**, **CSS**, and **JavaS
 - `padStart()`
 
 ## How to Run:
-
 1. Clone the repository:
-
-```bash
+bash
 git clone https://github.com/swastikakarmakar13-bot/Stopwatch-Program.git
-```
 
 2. Open the project folder.
 
 3. Open `index.html` in your browser.
 
 ## Preview:
-
-```text
-📷 images/stopwatch.png
-```
+Overview of the stopwatch:
+images/stopwatch.png
 
 ## Project Structure:
-
 stopwatch-js/
 │
 ├── index.html
@@ -60,7 +50,6 @@ stopwatch-js/
 └── README.md
 
 ## Future Improvements:
-
 - Lap Timer
 - Dark/Light Mode
 - Sound Effects
@@ -69,7 +58,6 @@ stopwatch-js/
 - Save Lap Times
 
 ## Author:
-
 **Swastika Karmakar**
 
 Currently learning JavaScript by building projects and improving one step at a time. 🚀
